@@ -6,6 +6,8 @@ Apples
 
 MEAT
 fish
+chicken
+goat
 
 DAIRY
 

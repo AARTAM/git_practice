@@ -8,6 +8,11 @@ MEAT
 fish
 
 DAIRY
+Milk
+eggs
+yoghurt
+butter
+cheese
 
 HOUSEHOLD
 

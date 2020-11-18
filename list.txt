@@ -10,6 +10,11 @@ chicken
 goat
 
 DAIRY
+Milk
+eggs
+yoghurt
+butter
+cheese
 
 HOUSEHOLD
 
